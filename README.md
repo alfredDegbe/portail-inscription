@@ -1,6 +1,11 @@
 # portail-inscription
 Portail d'inscription en ligne
 
+## Membres du groupe
+- AMEZIAN
+- DEGBE Alfred
+- LAMBONI
+- TAMEKLOE
 
 ## Objectif
 Nous souhaitons nous doter d'une application permettant de gérer les inscriptions des étudiants d'ESGIS.
